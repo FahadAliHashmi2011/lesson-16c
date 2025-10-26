@@ -30,8 +30,8 @@ print("Cost of plane ride: ", plane_ride_cost("Los Angeles"))
 
 print("Cost of hotel room: ", hotel_cost(7))
 
-print("total cost of the trip:",trip_cost("los Angeles",7,500))
-print("tampa",6,500)
+print("total cost of the trip:",trip_cost("Los Angeles",7,500))
+print("Tampa",6,500)
 
 
 
